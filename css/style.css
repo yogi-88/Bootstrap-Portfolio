@@ -11,15 +11,45 @@ h1, h2, h3 , h4, h5, h6 {
 #work{
     padding: 50px;
   }
-  .sectionHeading {
+.sectionHeading {
     text-align: center;
-  }
-  .work-section  {
+}
+.work-section  {
     padding: 0px 30px 30px 30px;
-  }
-  .cardContainer {
+}
+.cardContainer {
     text-align: center;
-  }
+}
+/*About section */
+.about_sec {
+    padding-top: 50px;
+
+}
+
+.main-title h1 {
+    font-size: 80px;
+    font-weight: 500;
+    color: blue;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+.about_text {
+    margin-top: 30px;
+}
+.about_text h1 {
+    font-size: 33px;
+    color: blue;
+    margin-top: -20px;
+    margin-bottom: 25px;
+}
+.about_text h2 {
+    font-size: 24px;
+    color: blue;
+}
+
+
+
 
 
 
