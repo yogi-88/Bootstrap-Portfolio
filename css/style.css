@@ -1,11 +1,41 @@
-/* Text */
+/* Global styles */
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+a {
+ color: #fdcc52;
+ transition: all .35s;
+}
+
+a:hover, a:focus {
+    color: #fcbd20;
+}
+.btn {
+    box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+    padding: 1.25rem 2rem;
+    font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+    border: 0;
+  }
+.btn {
+    border-radius: 300px;
+    font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
 h1, h2, h3 , h4, h5, h6 {
     font-family: 'Anton', sans-serif;
   }
-  p {
+p {
     font-family: 'Jura', sans-serif;
     text-align: center;
-  }
+}
 
   /* Work section Cards */
 #work{
@@ -67,8 +97,8 @@ h1, h2, h3 , h4, h5, h6 {
 footer {
     padding: 25px 0;
     text-align: center;
-    color: black;
-    line-height: 4rem;
+    color: white;
+    background-color: black;
     
 }
 
