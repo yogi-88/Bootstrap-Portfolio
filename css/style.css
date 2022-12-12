@@ -1,0 +1,13 @@
+/* Work Section */
+.imageContainer img {
+    width: 100%;
+}
+
+.imageContainer img {
+    padding: 10px;
+}
+
+.valueProp {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
