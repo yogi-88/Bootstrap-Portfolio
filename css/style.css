@@ -4,9 +4,10 @@ h1, h2, h3 , h4, h5, h6 {
   }
   p {
     font-family: 'Jura', sans-serif;
+    text-align: center;
   }
 
-  /* Cards */
+  /* Work section Cards */
 #work{
     padding: 50px;
   }
@@ -23,37 +24,6 @@ h1, h2, h3 , h4, h5, h6 {
 
 
 
-
-
-
-/* Work Section */
-
-
-
-/* .content {
-    padding: 50px;
-}
-.sectionHeading {
-    text-align: center;
-}
-
-.valueProp {
-    padding: 50px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-.sideAccent {
-    background: #007bff;
-    width: 15px;
-}
-
-.imageContainer img {
-    width: 100%;
-}
-
-.imageContainer {
-    padding: 50px;
-} */
 
 
 
