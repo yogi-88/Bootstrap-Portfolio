@@ -1,5 +1,36 @@
+/* Text */
+h1, h2, h3 , h4, h5, h6 {
+    font-family: 'Anton', sans-serif;
+  }
+  p {
+    font-family: 'Jura', sans-serif;
+  }
+
+  /* Cards */
+#work{
+    padding: 50px;
+  }
+  .sectionHeading {
+    text-align: center;
+  }
+  .work-section  {
+    padding: 0px 30px 30px 30px;
+  }
+  .cardContainer {
+    text-align: center;
+  }
+
+
+
+
+
+
+
 /* Work Section */
-.content {
+
+
+
+/* .content {
     padding: 50px;
 }
 .sectionHeading {
@@ -22,7 +53,7 @@
 
 .imageContainer {
     padding: 50px;
-}
+} */
 
 
 
