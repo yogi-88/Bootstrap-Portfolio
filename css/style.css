@@ -15,3 +15,22 @@
 .about {
     background-color: gray;
 }
+
+
+.bg-black {
+    background-color: lightgray!important;
+}
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+    color: black;
+    line-height: 4rem;
+    
+}
+
+footer p {
+    font-size: 18px;
+    margin: 0;
+  }
+  
