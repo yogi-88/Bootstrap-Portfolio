@@ -1,32 +1,35 @@
 /* Work Section */
-.imageContainer img {
-    width: 100%;
+.content {
+    padding: 50px;
 }
-
-.imageContainer img {
-    padding: 10px;
+.sectionHeading {
+    text-align: center;
 }
 
 .valueProp {
     margin-top: 15px;
     margin-bottom: 15px;
 }
+.sideAccent {
+    background: #007bff;
+    width: 15px;
+}
 
-.about {
-    background-color: gray;
+.imageContainer img {
+    width: 100%;
+}
+
+.imageContainer {
+    padding: 50px;
 }
 
 
-.bg-black {
-    background-color: lightgray!important;
-}
-.bg-text {
-    background-color: green!important;
-}
 
-.text {
-    margin-left: auto;
-}
+
+
+
+
+
 
 
 footer {
