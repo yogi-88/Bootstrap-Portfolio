@@ -20,6 +20,14 @@
 .bg-black {
     background-color: lightgray!important;
 }
+.bg-text {
+    background-color: green!important;
+}
+
+.text {
+    margin-left: auto;
+}
+
 
 footer {
     padding: 25px 0;
